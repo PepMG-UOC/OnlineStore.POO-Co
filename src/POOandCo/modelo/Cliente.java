@@ -34,6 +34,7 @@ public class Cliente {
         this.nif = nif;
         this.esPremium = false;
     }
+    
     public Cliente(String eMail, String nombre, String domicilio, String nif, double cuota, double descuento) {
         this.eMail = eMail;
         this.nombre = nombre;
