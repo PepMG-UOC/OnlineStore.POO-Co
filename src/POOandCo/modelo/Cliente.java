@@ -26,6 +26,7 @@ public class Cliente {
      * @param cuota         Indica la cantidad a pagar para ser premium.
      * @param descuento     Indica la cantidad a descontar en los envios.
      */
+    
     public Cliente(String eMail, String nombre, String domicilio, String nif) {
         this.eMail = eMail;
         this.nombre = nombre;
