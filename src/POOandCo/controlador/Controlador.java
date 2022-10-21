@@ -2,7 +2,10 @@
 package POOandCo.controlador;
 
 import java.util.List;
-import POOandCo.modelo.Datos;
+import POOandCo.modelo.*;
+import POOandCo.vista.*;
+
+
 
 public class Controlador {
     private Datos datos;
